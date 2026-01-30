@@ -40,5 +40,5 @@ Wiring Screenshots come later.
 The device go to sleep after 5 minutes, and can be waked up with left Button, if still tired, just reset the modul.
 Dont forget to add the device in your Bluetooth manager as Lenkrad Pro :)
 If you load a new Sketch to the device, kick it out of your windows BT Managaer before you try to upload the sketch.
-(https://github.com/Landixus/Biketerra-10-Buttons-ESP32-C-BLE-Controller/blob/main/20260130_162737.jpg)
+![Alt text](https://github.com/Landixus/Biketerra-10-Buttons-ESP32-C-BLE-Controller/blob/main/20260130_162737.jpg "Image")
 
