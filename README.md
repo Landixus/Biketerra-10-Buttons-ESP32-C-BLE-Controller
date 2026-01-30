@@ -19,3 +19,4 @@ Wiring Screenshots come later.
 The device go to sleep after 5 minutes, and can be waked up with left Button, if still tired, just reset the modul.
 Dont forget to add the device in your Bluetooth manager as Lenkrad Pro :)
 If you load a new Sketch to the device, kick it out of your windows BT Managaer before you try to upload the sketch.
+![image search api]([https://user-images.githubusercontent.com/110724391/184472398-c590b47c-e1f2-41f8-87e6-2a1f68e8850d.png])
