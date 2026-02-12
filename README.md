@@ -1,6 +1,9 @@
 # Biketerra-10-Buttons-ESP32-C-BLE-Controller
 Biketerra 10 Buttons ESP32-C BLE Controller for Handlebar custom Mount
 
+An updated Version with Wemos32D1 Mini with 2 5way navigation modules are here: 
+https://github.com/Landixus/oneZlickAway/blob/main/wemos32d1mini.ino
+
 This Sketch is for ESP32C Dev Module, i use a geekable: https://de.aliexpress.com/item/1005007104801519.html
 And the 2. Sketch for ESP32C XIAO from seed.
 
